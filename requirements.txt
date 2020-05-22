@@ -1,0 +1,11 @@
+Flask
+psycopg2-binary
+gunicorn
+pandas
+numpy
+seaborn
+matplotlib
+statsmodels
+sklearn
+radon
+pyyaml

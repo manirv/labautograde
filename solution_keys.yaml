@@ -1,0 +1,8 @@
+Lab2:
+steps:
+    1:
+        code         : re
+        message      : 'Please use RegularExpression re in your solution.'
+     2:
+        code         : np
+        message      : 'Please use numpy in your solution.'
